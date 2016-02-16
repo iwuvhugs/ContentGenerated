@@ -1,0 +1,25 @@
+[{
+        "province": "New Brunswick",
+        "numJobs": 19
+    }, {
+        "province": "Manitoba",
+        "numJobs": 6
+    }, {
+        "province": "Alberta",
+        "numJobs": 18
+    }, {
+        "province": "Nova Scotia",
+        "numJobs": 4
+    }, {
+        "province": "Quebec",
+        "numJobs": 78
+    }, {
+        "province": "British Columbia",
+        "numJobs": 47
+    }, {
+        "province": "Saskatchewan",
+        "numJobs": 3
+    }, {
+        "province": "Ontario",
+        "numJobs": 137
+    }]
